@@ -1,2 +1,2 @@
-# CS 106S: Coding for Social Good
-Website for Stanford course CS 106S.
+# Diana Bernabe Portfolio
+Website for Diana's Portfolio. 
