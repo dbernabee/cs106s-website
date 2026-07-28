@@ -77,3 +77,11 @@
     --color-urge-800: #4c1d95;
     --color-urge-900: #240e44;
 }
+
+.fun{
+    object-fit: cover;
+    height:125px; 
+    border-radius:10px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
